@@ -1,3 +1,4 @@
+MUT POS
 S_del69	21764
 S_del70	21764
 S_del144	21990
