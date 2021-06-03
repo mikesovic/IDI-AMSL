@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 MUT	POS
-=======
-MUT POS
->>>>>>> 0dc465d42d516a3cbdcf4b6624c4ef2c87726231
 S_del69	21764
 S_del70	21764
 S_del144	21990
